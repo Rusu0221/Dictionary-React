@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dictionary-react/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/Dictionary-react/static/js/main.287bc1f1.chunk.js",
+    "main.js.map": "/Dictionary-react/static/js/main.287bc1f1.chunk.js.map",
+    "runtime-main.js": "/Dictionary-react/static/js/runtime-main.5a3c3915.js",
+    "runtime-main.js.map": "/Dictionary-react/static/js/runtime-main.5a3c3915.js.map",
+    "static/js/2.374d7f79.chunk.js": "/Dictionary-react/static/js/2.374d7f79.chunk.js",
+    "static/js/2.374d7f79.chunk.js.map": "/Dictionary-react/static/js/2.374d7f79.chunk.js.map",
+    "index.html": "/Dictionary-react/index.html",
+    "static/css/main.59a2abdd.chunk.css.map": "/Dictionary-react/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.374d7f79.chunk.js.LICENSE.txt": "/Dictionary-react/static/js/2.374d7f79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a3c3915.js",
+    "static/js/2.374d7f79.chunk.js",
+    "static/css/main.59a2abdd.chunk.css",
+    "static/js/main.287bc1f1.chunk.js"
+  ]
+}
